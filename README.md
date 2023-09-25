@@ -10,7 +10,7 @@ The primary goal of this project was to showcase my skills in embedded C develop
 - **OLED Drivers**: [GitHub Repository](https://github.com/afiskon/stm32-ssd1306)
 
 I also had the opportunity to design a PCB for this project using KiCad.
-![Project Image](./PCB.png)
+![Project Image](./PCB.PNG)
 
 ## Contact Information
 If you would like to learn more about this project or get in touch with me, please feel free to do so through the following channels:
